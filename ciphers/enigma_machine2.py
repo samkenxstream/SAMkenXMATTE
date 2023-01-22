@@ -8,7 +8,7 @@ the famous Enigma machine from WWII.
 Module includes:
 - enigma function
 - showcase of function usage
-- 9 randnomly generated rotors
+- 9 randomly generated rotors
 - reflector (aka static rotor)
 - original alphabet
 
@@ -86,8 +86,7 @@ def _validator(
     """
     # Checks if there are 3 unique rotors
 
-    unique_rotsel = len(set(rotsel))
-    if unique_rotsel < 3:
+    if (unique_rotsel := len(set(rotsel))) < 3:
         raise Exception(f"Please use 3 unique rotors (not {unique_rotsel})")
 
     # Checks if rotor positions are valid

@@ -42,10 +42,11 @@
 
     Author: @EverLookNeverSee
 """
+from collections.abc import Callable
 from math import log
 from os import name, system
 from random import gauss, seed
-from typing import Callable, TypeVar
+from typing import TypeVar
 
 
 # Make a training dataset drawn from a gaussian distribution
@@ -255,7 +256,7 @@ def valid_input(
     input_msg: str,
     err_msg: str,
     condition: Callable[[num], bool] = lambda x: True,
-    default: str = None,
+    default: str | None = None,
 ) -> num:
     """
     Ask for user value and validate that it fulfill a condition.

@@ -1,7 +1,7 @@
 """Newton's Method."""
 
 # Newton's Method - https://en.wikipedia.org/wiki/Newton%27s_method
-from typing import Callable
+from collections.abc import Callable
 
 RealFunc = Callable[[float], float]  # type alias for a real -> real function
 
@@ -28,7 +28,7 @@ def newton(
     1.5707963267948966
     >>> newton(math.cos, lambda x: -math.sin(x), 0)
     Traceback (most recent call last):
-    ...
+        ...
     ZeroDivisionError: Could not find root
     """
     prev_guess = float(starting_int)
