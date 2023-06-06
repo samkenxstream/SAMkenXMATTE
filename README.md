@@ -1,24 +1,22 @@
-# The Algorithms - Python <!-- [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python) -->
+ <!-- [![Build Status](https://cotcleci.com/SAMkenXMATTE/Python.svg)](https://circleci.com/samkenxtream/SAMkenXPython) -->
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100) &nbsp;
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/TheAlgorithms) &nbsp;
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Python)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/SAMkenXEcosystem/100) &nbsp;
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SAMkenXEcosystem)
 
-### All algorithms implemented in Python (for education)
+#`SAMkenXEcosystem-SAMkenXMATTE':`configuration`
+
+
+### All SAMkenXEcosystem implemented SAMkenXMATTE in Python (for Knowledge and Evolutions)
 
 These implementations are for learning purposes. They may be less efficient than the implementations in the Python standard library.
 
-## Owners
+## Owner
 
-Anup Kumar Panwar
-&nbsp; [[Gmail](mailto:1anuppanwar@gmail.com?Subject=The%20Algorithms%20-%20Python)
-&nbsp; [GitHub](https://github.com/anupkumarpanwar)
-&nbsp; [LinkedIn](https://www.linkedin.com/in/anupkumarpanwar/)]
+SAM KEN
+&nbsp; [[Gmail](mailto: orbit.hierarchy@gmail.com?Subject=The%20SAMkenXMATTE%20-%20Python)
+&nbsp; [GitHub](https://github.com/samkenxstream)
+&nbsp; [LinkedIn](https://www.linkedin.com/in/samkenx-ecosystem-3b32b1203 )]
 
-Chetan Kaushik
-&nbsp; [[Gmail](mailto:dynamitechetan@gmail.com?Subject=The%20Algorithms%20-%20Python)
-&nbsp; [GitHub](https://github.com/dynamitechetan)
-&nbsp; [LinkedIn](https://www.linkedin.com/in/chetankaushik/)]
 
 ## Contribution Guidelines
 
@@ -26,8 +24,17 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Community Channel
 
-We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
+We're on [Gitter](https://gitter.im/SAMkenXEcosystem)! Please join us.
 
-## Algorithms
+##  SAMkenXEcosystem streaming Artistry and Algorithms
 
 See our [directory](DIRECTORY.md).
+
+
+
+
+
+
+
+
+
