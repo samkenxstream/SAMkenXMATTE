@@ -16,7 +16,7 @@
 
 Sam Ken
 
-&nbsp; [[Gmail](mailto: orbit.hierarchy@gmail.com?Subject=The%20SAMkenXMATTE%20-%20Python)
+&nbsp; [[Gmail](mailto: orbit.hierarchy@gmail.com
 &nbsp; [GitHub](https://github.com/samkenxstream)
 &nbsp; [LinkedIn](https://www.linkedin.com/in/samkenx-ecosystem-3b32b1203 )]
 
