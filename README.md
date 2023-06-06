@@ -4,7 +4,7 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SAMkenXEcosystem)
 
 
-#[SAMkenXEcosystem-SAMkenXMATTE]<<{configurations}>>
+#[SAMkenXEcosystem-SAMkenXMATTE]({configurations})
 
 
 
