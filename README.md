@@ -3,7 +3,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/SAMkenXEcosystem/100) &nbsp;
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SAMkenXEcosystem)
 
-#SAMkenXEcosystem-SAMkenXMATTE , `fileconfig`
+#[SAMkenXEcosystem-SAMkenXMATTE](`fileconfig`)
 
 
 
@@ -16,7 +16,7 @@
 
 Sam Ken
 
-&nbsp; [Gmail](mailto: orbit.hierarchy@gmail.com
+&nbsp; [Gmail](mailto:orbit.hierarchy@gmail.com)
 &nbsp; [GitHub](https://github.com/samkenxstream)
 &nbsp; [LinkedIn](https://www.linkedin.com/in/samkenx-ecosystem-3b32b1203 )]
 
