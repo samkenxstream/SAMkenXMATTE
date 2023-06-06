@@ -16,7 +16,7 @@
 
 Sam Ken
 
-&nbsp; [[Gmail](mailto: orbit.hierarchy@gmail.com
+&nbsp; [Gmail](mailto: orbit.hierarchy@gmail.com
 &nbsp; [GitHub](https://github.com/samkenxstream)
 &nbsp; [LinkedIn](https://www.linkedin.com/in/samkenx-ecosystem-3b32b1203 )]
 
