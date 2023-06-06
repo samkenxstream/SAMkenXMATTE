@@ -1,9 +1,10 @@
- <!-- [![Build Status](https://cotcleci.com/SAMkenXMATTE/Python.svg)](https://circleci.com/samkenxtream/SAMkenXPython) -->
+ #(`SAMkenXMTTE`)<!-- [![Build Status](https://cicleci.com/samkenxstream/samkenxmatte-Python.svg)](https://circleci.com/samkenxtream/samkenxmatte-Python) -->
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/SAMkenXEcosystem/100) &nbsp;
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SAMkenXEcosystem)
 
-#[SAMkenXEcosystem-SAMkenXMATTE](`fileconfig`)
+
+#[SAMkenXEcosystem-SAMkenXMATTE](`files configuration`)
 
 
 
@@ -25,9 +26,11 @@ Sam Ken
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
+
 ## Community Channel
 
 We're on [Gitter](https://gitter.im/SAMkenXEcosystem)! Please join us.
+
 
 ##  SAMkenXEcosystem streaming Artistry and Algorithms
 
