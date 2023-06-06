@@ -3,7 +3,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/SAMkenXEcosystem/100) &nbsp;
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/SAMkenXEcosystem)
 
-#`SAMkenXEcosystem-SAMkenXMATTE' = `Docs Configuration`
+# `SAMkenXEcosystem-SAMkenXMATTE` : `Docs Configuration`
 
 
 
@@ -14,7 +14,8 @@
 
 ## Owner
 
-SAM KEN
+Sam Ken
+
 &nbsp; [[Gmail](mailto: orbit.hierarchy@gmail.com?Subject=The%20SAMkenXMATTE%20-%20Python)
 &nbsp; [GitHub](https://github.com/samkenxstream)
 &nbsp; [LinkedIn](https://www.linkedin.com/in/samkenx-ecosystem-3b32b1203 )]
